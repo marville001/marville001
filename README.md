@@ -1,6 +1,6 @@
 ### Hi there, I'm Martin - aka [marville001][website] 👋
 
-[![Website](https://img.shields.io/website?label=Marville 001&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://marville001.netlify.com)
+[![Website](https://img.shields.io/website?label=marville001001&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://marville001.netlify.com)
 
 ## I'm a Developer, Writer, and I am Learning Machine Learning!!
 
