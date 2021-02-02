@@ -72,7 +72,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="marville001's GitHub Stats" src="https://github-readme-stats.marville001.vercel.app/api?username=marville001&show_icons=true&hide_border=true" />
+  <img align="left" alt="marville001's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marville001&show_icons=true&hide_border=true" />
 
 </details>
 
