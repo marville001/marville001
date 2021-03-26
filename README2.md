@@ -9,11 +9,6 @@
   <a href="https://github.com/marville001?tab=followers">
     <img src="https://img.shields.io/github/followers/marville001?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-
-  <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
-    <img src="https://img.shields.io/youtube/views/Ew4wlgcUEYk?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-
 </p>
 
 ---
