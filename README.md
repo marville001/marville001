@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on Ecomerce Website  
 - 🌱 I’m currently react native and grapgql 
 - 💬 Ask me about how to write bugs not code , I am an expert in this :( 
-- 📫 How to reach me: https://martin001.netlify.app/ 
+- 📫 How to reach me: [My Portfolio](https://martinmwangi.netlify.app/)
 - ⚡ Fun fact: you don't finish your ongoing project before starting a new one
 
 ---
