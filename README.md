@@ -1,8 +1,8 @@
-[Marville001](https://raw.githubusercontent.com/marville001/marville001/main/marville001.png)
+<!-- [Marville001](https://raw.githubusercontent.com/marville001/marville001/main/marville001.png) -->
 ### Hi there 👋, I am Martin
 #### Full Stack Developer :)
 
-<p align="center">I am Martin Mwangi aka marville001, currently pursuing my B.Tech degree in Computer Science Engineering as a final year student. I am a full-stack web developer.
+<p align="center">I am Martin Mwangi aka marville001, currently pursuing my B.Tech degree in Computer Science as a final year student. I am a full-stack web developer.
     
 
 <p align="center">
