@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an Intern at theJitu.com
+- 🔭 I’m currently working as an Intern at [TheJItu](https://thejitu.com/)
 - 🌱 All things Reactjs, Python and Nodejs
 
 - 📫 How to reach me: [My Portfolio](https://martinmwangi.netlify.app/)
