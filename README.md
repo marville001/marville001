@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 All things Reactjs, Python and Nodejs
 
 - 📫 How to reach me: [My Portfolio](https://my-portfolio-dev.vercel.app/)
+- 👨🏽‍💻 Currently Leaning Data Structures and Algorithms
 
 <center>
   <table>
