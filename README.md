@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Developer at [TheJItu](https://thejitu.com/)
 - 🌱 All things Reactjs, Python and Nodejs
 
-- 📫 How to reach me: [My Portfolio](https://my-portfolio-dev.vercel.app/)
+- 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
 - 👨🏽‍💻 Currently Leaning Data Structures and Algorithms
 
 <center>
