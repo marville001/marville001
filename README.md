@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 <center>
   <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marville001&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=marville001&theme=dark" /></td>      
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marville0001&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=marville0001&theme=dark" /></td>      
   </tr>   
   </table>
 </center>
