@@ -26,3 +26,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/marville001?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
+
+[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=marville001&theme=github-dark&hide_border=true)](https://github.com/marville001)
