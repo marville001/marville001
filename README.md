@@ -15,10 +15,10 @@ Here are some ideas to get you started:
   <table>
   <tr>
       <td>
-        📈 my github stats
+        <p>📈 my github stats </p>
         <br />
         <p>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marville001&count_private=true&show_icons=true&theme=gotham&layout=compact" />
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marville001&count_private=true&show_icons=true&theme=gotham&layout=compact" />
         </p>
     </td>
       <td>
