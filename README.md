@@ -30,8 +30,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/followers/marville001?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
-
-<img align="right" alt="GIF" src="https://github.com/marville001/marville001/blob/master/code.gif?raw=true" width="500" height="320" />
+<br />
+<img align="center" alt="GIF" src="https://github.com/marville001/marville001/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=marville001&theme=github-dark&hide_border=true)](https://github.com/marville001)
