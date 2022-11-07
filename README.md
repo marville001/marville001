@@ -16,11 +16,18 @@ Here are some ideas to get you started:
   <tr>
       <td>
         📈 my github stats
+        <br />
         <p>
         <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marville001&count_private=true&show_icons=true&theme=gotham&layout=compact" />
         </p>
     </td>
-      <td><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=marville001&theme=dark" alt="marville001" /></td>      
+      <td>
+        <br />
+        <br />
+        <p>
+          <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=marville001&theme=dark" alt="marville001" />
+        </p>
+    </td>      
   </tr>   
   </table>
 </center>
