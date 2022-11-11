@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br />
-<p align="center>
+<p align="center">
   <img align="center" alt="GIF" src="https://github.com/marville001/marville001/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 <!-- 
