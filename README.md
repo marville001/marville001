@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 All things Reactjs, Python and Nodejs
 
 - 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
-- 👨🏽‍💻 Currently Leaning Data Structures and Algorithms
+- 👨🏽‍💻 Currently Leaning DSA
 
 <center>
   <table>
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br />
-<p align="center">
+<!-- <p align="center">
   <img align="center" alt="GIF" src="https://github.com/marville001/marville001/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
+</p> -->
 <!-- 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=marville001&theme=github-dark&hide_border=true)](https://github.com/marville001)
 -->
