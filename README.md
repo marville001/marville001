@@ -37,6 +37,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br />
+<p align="center">
+  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=f51bc18eb7c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+</p> 
 <!-- 
 <p align="center">
   <img align="center" alt="GIF" src="https://github.com/marville001/marville001/blob/master/code.gif?raw=true" width="500" height="320" />
