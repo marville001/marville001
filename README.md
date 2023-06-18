@@ -14,7 +14,7 @@
   </a>
   <a  href="https://app.daily.dev/marville001">
     <img 
-      src="https://api.daily.dev/devcards/5b277314eeac4f859633de41f612eee7.png?r=25e" 
+      src="https://github.com/marville001/marville001/blob/master/devcard.svg" 
       align="right"
       width="233"
       alt="Martin Mwangi's Dev Card"
@@ -29,7 +29,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Software Developer at [TheJItu](https://thejitu.com/)
-- 🌱 All things Reactjs, Python and Nodejs
+- 🌱 All things Reactjs, Nextjs, Python, and Nodejs
 
 - 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
 - 👨🏽‍💻 Currently Leaning DSA
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
       <table>
       <tr>
           <td>
-            <p>📈 my github stats </p>
+            <p>📈 My Github Stats </p>
             <p>
               <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marville001&count_private=true&show_icons=true&theme=gotham&layout=compact" />
             </p>
