@@ -1,18 +1,17 @@
 <!-- [Marville001](https://raw.githubusercontent.com/marville001/marville001/main/marville001.png) -->
 ### Hi there <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> I'm Martin Mwangi
 
+#### Full Stack Software Developer :)
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working as a Software Developer at [TheJItu](https://thejitu.com/)
+- 🌱 All things Reactjs, Python and Nodejs
+
+- 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
+- 👨🏽‍💻 Currently Leaning DSA
+    
 <div align="left">
-  <div>
-    #### Full Stack Software Developer :)
-    
-    Here are some ideas to get you started:
-    
-    - 🔭 I’m currently working as a Software Developer at [TheJItu](https://thejitu.com/)
-    - 🌱 All things Reactjs, Python and Nodejs
-    
-    - 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
-    - 👨🏽‍💻 Currently Leaning DSA
-    
     <center>
       <table>
       <tr>
@@ -32,7 +31,6 @@
       </tr>   
       </table>
     </center>
-  </div>
 </div>
    
 <p align="center">
