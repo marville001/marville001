@@ -16,7 +16,7 @@
     <img 
       src="https://api.daily.dev/devcards/5b277314eeac4f859633de41f612eee7.png?r=25e" 
       align="right"
-      width="256"
+      width="233"
       alt="Martin Mwangi's Dev Card"
       />
   </a>
