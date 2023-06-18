@@ -16,7 +16,14 @@
       alt="LinkedIn"
     />
   </a>
-  <a align="right" href="https://app.daily.dev/marville001"><img src="https://api.daily.dev/devcards/5b277314eeac4f859633de41f612eee7.png?r=25e" width="400" alt="Martin Mwangi's Dev Card"/></a>
+  <a  href="https://app.daily.dev/marville001">
+    <img 
+      src="https://api.daily.dev/devcards/5b277314eeac4f859633de41f612eee7.png?r=25e" 
+      align="right"
+      width="256"
+      alt="Martin Mwangi's Dev Card"
+      />
+  </a>
 </div>
 
 Here are some ideas to get you started:
