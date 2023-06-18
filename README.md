@@ -4,6 +4,18 @@
 #### Full Stack Software Developer :)
 
 <div align="left">
+  <a href="https://twitter.com/marville001">
+    <img
+      src="https://img.shields.io/twitter/follow/marville001?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/marville001/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
   <a align="right" href="https://app.daily.dev/marville001"><img src="https://api.daily.dev/devcards/5b277314eeac4f859633de41f612eee7.png?r=25e" width="400" alt="Martin Mwangi's Dev Card"/></a>
 </div>
 
