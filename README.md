@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 All things Reactjs, Nextjs, Python, and Nodejs
 
 - 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
-- 👨🏽‍💻 Currently Leaning DSA
+- 👨🏽‍💻 Currently Leaning DSA, C# & .NET
     
 <div align="left">
     <center>
