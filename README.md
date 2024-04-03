@@ -29,10 +29,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Software Developer at [TheJItu](https://thejitu.com/)
-- 🌱 All things Reactjs, Nextjs, Python, and Nodejs
+- 🌱 All things Reactjs, Nextjs, .NET, Python, and Nodejs
 
 - 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
-- 👨🏽‍💻 Currently Leaning DSA, C# & .NET
+- 👨🏽‍💻 Currently Mastering DSA, C# & .NET
     
 <div align="left">
     <center>
