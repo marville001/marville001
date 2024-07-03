@@ -28,7 +28,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Software Developer at [TheJItu](https://thejitu.com/)
+- 🔭 I’m currently working as a Software Engineer
 - 🌱 All things Reactjs, Nextjs, .NET, Python, and Nodejs
 
 - 📫 How to reach me: [My Portfolio](https://thereactivedeveloper.com/)
