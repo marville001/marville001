@@ -14,7 +14,7 @@
   </a>
   <a  href="https://app.daily.dev/marville001">
     <img 
-      src="https://github.com/marville001/marville001/blob/master/devcard.svg" 
+      src="https://github.com/marville001/marville001/blob/master/devcard.png" 
       align="right"
       width="233"
       alt="Martin Mwangi's Dev Card"
